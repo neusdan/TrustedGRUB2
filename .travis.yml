@@ -5,7 +5,7 @@ language: c
 script: 
   - "./autogen.sh"
   - "./configure"
-  - "./make"
+  - "make"
 
 os:
   - linux
